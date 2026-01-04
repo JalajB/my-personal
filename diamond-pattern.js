@@ -1,4 +1,4 @@
-let endCounter = 11;
+let endCounter = 21;
 endString = "";
 for (let i = 0; i <= endCounter; i++) {
   for (let j = 0; j < endCounter; j++) {
