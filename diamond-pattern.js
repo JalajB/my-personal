@@ -1,5 +1,5 @@
 let endCounter = 31;
-endString = "";
+let endString = "";
 for (let i = 0; i <= endCounter; i++) {
   for (let j = 0; j <= endCounter; j++) {
     if (i < Math.ceil(endCounter / 2)) {
